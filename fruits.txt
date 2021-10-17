@@ -1,5 +1,6 @@
 Orange
 Strawberry
+Raspberry
 Apple
 Grape
 Blackberry
